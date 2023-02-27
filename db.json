@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "thaiphuongnam",
+      "email": "thaiphuongnam@gmail.com",
+      "password": "$2a$10$pM2/n/IIk3t4AXndfRLRRewQSM9GZhmB7rxjbyw8o8MqK9bcJAaUm",
+      "address": "hà tĩnh",
+      "phone": "0123456789",
+      "permission": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$VvonqPHwuZgkEv7EIULnX.J/BrxTjKpFREkRT4utSSWiNsvP5PUJC",
+      "userName": "aaaa",
+      "address": "hà tĩnh",
+      "phone": "09876544",
+      "id": 2
+    }
+  ],
+  "newArrivals": [
+    {
+      "id": 1,
+      "name": "PUMA x BALMAIN Court Basketball",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/195683/01/sv01/fnd/PNA/fmt/png/PUMA-x-BALMAIN-Court-Basketball-Shoes",
+      "price": "$12"
+    },
+    {
+      "id": 2,
+      "name": "INFUSE Woven Women's Jacket",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/538355/01/fnd/PNA/fmt/png/INFUSE-Woven-Women's-Jacket",
+      "price": "$90"
+    },
+    {
+      "id": 3,
+      "name": "INFUSE Woven Women's Jacket",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/538355/89/fnd/PNA/fmt/png/INFUSE-Woven-Women's-Jacket",
+      "price": "$90"
+    },
+    {
+      "id": 4,
+      "name": "INFUSE Woven Women's Shorts",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/538356/89/fnd/PNA/fmt/png/INFUSE-Woven-Women's-Shorts",
+      "price": "$90"
+    },
+    {
+      "id": 5,
+      "name": "INFUSE Woven Women's Shorts",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/538356/01/fnd/PNA/fmt/png/INFUSE-Woven-Women's-Shorts",
+      "price": "$90"
+    },
+    {
+      "id": 6,
+      "name": "PUMA x RICK AND MORTY MB.02 Basketball Shoes",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/377411/02/sv01/fnd/PNA/fmt/png/PUMA-x-RICK-AND-MORTY-MB.02-Basketball-Shoes",
+      "price": "$140"
+    },
+    {
+      "id": 7,
+      "name": "Suede Classic XXI Sneakers",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/374915/75/sv01/fnd/PNA/fmt/png/Suede-Classic-XXI-Sneakers",
+      "price": "$75"
+    },
+    {
+      "id": 8,
+      "name": "PUMA x MELO TeePUMA",
+      "image": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_500,h_500/global/621719/01/mod01/fnd/PNA/fmt/png/PUMA-x-MELO-Tee",
+      "price": "$40"
+    }
+  ]
+}
